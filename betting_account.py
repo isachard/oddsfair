@@ -35,7 +35,7 @@ bookmaker = 51.06
 dimes = 28.47
 
 uSavings = 1691.38
-uBookmaker = 315
+uBookmaker = 195.19
 u5dimes = 0.00
 
 start = savings + bookmaker + dimes

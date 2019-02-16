@@ -108,7 +108,7 @@ totalValue = 0
 nba = "nbadata.txt"
 nhl = "nhldata.txt"
 defaultValue = 0 
-dictionary = dict.fromkeys(['l4','l5','l6','l7','l8','w4','w5','w6','w7','w8','u4','u5','u6','u7','u8','o4','o5','o6','o7','o8','u3*','u4*','l4*','l5/','w5/','l6*','o4*'], defaultValue)
+dictionary = dict.fromkeys(['w4*','u3','l7*','l3','w3','o3','l4','l5','l6','l7','l8','w4','w5','w6','w7','w8','u4','u5','u6','u7','u8','o4','o5','o6','o7','o8','u3*','u4*','l4*','l5/','w5/','l6*','o4*','o6*'], defaultValue)
 
 
 printdictionary()
